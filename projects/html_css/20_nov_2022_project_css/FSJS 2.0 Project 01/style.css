@@ -41,7 +41,7 @@
 }
 
 .button-group .nav-button {
-  background: #705fe3;
+  background: #4e3ad2;
   color: #ffffff;
   padding-inline: 2em;
   padding-block: 0.8em;
@@ -64,7 +64,7 @@ h1.heading-text {
 }
 
 h1.heading-text span {
-  color: #705fe3;
+  color: #4e3ad2;
 }
 
 .banner-container p.description {
@@ -74,8 +74,8 @@ h1.heading-text span {
   margin-block-end: 3em;
 }
 
-.nav-button{
-  background: #705fe3;
+.nav-button {
+  background: #4e3ad2;
   color: #ffffff;
   padding-inline: 2em;
   padding-block: 0.8em;
